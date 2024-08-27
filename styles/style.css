@@ -65,7 +65,7 @@ html {
 
 body {
     box-sizing: border-box;
-    background-image: url(./assets/fondo.svg), url(./assets/fondo.jpg);
+    background-image: url(/assets/fondo.svg), url(/assets/fondo.jpg);
     background-repeat: no-repeat, no-repeat;
     background-position: center bottom, center center;
     background-attachment: fixed, fixed;
